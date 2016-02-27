@@ -1,4 +1,4 @@
-# Intro-Stats-Learning
+# Introduction to Statistical Learning
 Exercises in Python for "An Introduction to Statistical Learning" (http://www-bcf.usc.edu/~gareth/ISL/)
 
 This repository stores notes and exercises (in Python) for "An Introduction to Statistical Learning with Applications in R".
